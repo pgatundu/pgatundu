@@ -30,7 +30,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/pgatundu/Networking" title="Django social media app with authentication, posts, likes, follows, and personalized feeds.">
+      <a href="https://github.com/pgatundu/Networking" title="Django social media app with authentication, posts, likes, follows, and personalized feeds; includes secure login and access control.">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pgatundu&repo=Networking&theme=tokyonight" />
       </a>
     </td>
@@ -52,6 +52,7 @@
 ---
 
 ## 👨‍💻 Software Development Projects
+### Web Development
 - **Full Stack Web App (Python, JavaScript, AJAX, HTML, CSS)**  
   - [Recipe Management App](https://github.com/pgatundu/recipe_project)
 - **Web App (JavaScript, HTML, CSS)**  
@@ -60,6 +61,11 @@
   - [Wiki Project](https://github.com/pgatundu/Wiki)
 - **Front-End Clone (HTML, CSS)**  
   - [Google Clone](https://github.com/pgatundu/google_clone)
+
+### Cybersecurity-Related Projects
+- **Django Social Media (Python, Django)**  
+  - [Networking](https://github.com/pgatundu/Networking)  
+  *Highlights: Secure authentication, input validation, access control.*
 
 ---
 
