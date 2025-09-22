@@ -103,4 +103,4 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=pgatundu&color=blue&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=pgatundu&color=blue&style=flat-square)](https://github.com/pgatundu)
