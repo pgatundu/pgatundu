@@ -12,8 +12,8 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/pgatundu/Networking)  
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pgatundu/recipe_project)  
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/pgatundu/google_clone)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pgatundu/Mail,https://github.com/pgatundu/google_clone)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/pgatundu/Mail,https://github.com/pgatundu/google_clone)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pgatundu/Mail) *(also used in Google Clone)*  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/pgatundu/Mail) *(also used in Google Clone)*  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pgatundu)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgatundu)  
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=datadog&logoColor=white)](https://github.com/pgatundu/Networking)  
@@ -43,18 +43,6 @@
     <td>
       <a href="https://github.com/pgatundu/Commerce" title="A Django-powered e-commerce auction site with bidding, comments, categories, and watchlist support.">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pgatundu&repo=Commerce&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/pgatundu/Wiki" title="A Django-based encyclopedia where users can search, create, edit, and view Markdown-powered wiki entries.">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pgatundu&repo=Wiki&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/pgatundu/google_clone" title="A front-end clone of Google Search, Image Search, and Advanced Search built with HTML and CSS.">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pgatundu&repo=google_clone&theme=tokyonight" />
       </a>
     </td>
   </tr>
