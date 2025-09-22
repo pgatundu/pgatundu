@@ -12,8 +12,8 @@
   <a href="https://github.com/pgatundu/Mail"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://github.com/pgatundu/Networking"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
   <a href="https://github.com/pgatundu/recipe_project"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-  <a href="https://github.com/pgatundu/Mail"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/pgatundu/Mail"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://github.com/pgatundu/project_1-wiki"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://github.com/pgatundu/project_1-wiki"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://github.com/pgatundu"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/pgatundu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/pgatundu/Networking"><img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=datadog&logoColor=white" /></a>
@@ -58,9 +58,9 @@
 - **Web App (JavaScript, HTML, CSS)**  
   - [Single-Page Email Client](https://github.com/pgatundu/Mail)
 - **Django Wiki (Python, HTML, CSS)**  
-  - [Wiki Project](https://github.com/pgatundu/Wiki)
-- **Front-End Clone (HTML, CSS)**  
-  - [Google Clone](https://github.com/pgatundu/google_clone)
+  - [Wiki Project](https://github.com/pgatundu/project_1-wiki)
+- **E-Commerce Web App (Python, Django, HTML, CSS)**  
+  - [Commerce](https://github.com/pgatundu/Commerce)
 
 ### Cybersecurity-Related Projects
 - **Django Social Media (Python, Django)**  
