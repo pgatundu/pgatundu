@@ -88,7 +88,7 @@
 <p>
   <a href="https://www.youtube.com/@thepnesh"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://linkedin.com/in/peter-gatundu-66a694304/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/munenegatundu/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  
 </p>
 
 ---
